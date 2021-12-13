@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajimfY9aDFnlnfpj9pfcSP1Idopy8ZvL1fC1MZvAtZIW1uAsqAkr2SFteQx7S4461l/OKUWNLy7KKf+oDpTYrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhoanita\\OneDrive\\Big Data Analytics\\Information encoding structures\\Final Project\\Authentication\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhoanita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jhoanita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
